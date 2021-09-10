@@ -15,8 +15,7 @@ The following Jupyter notebooks `contain`:
 
 The following python files included:
 
-`Graph and persistent homology.ipynb--the codes are used to create the graph/network as in Figure 1, in line with the EVC filtration and its persistent homology.\\
-
+`Graph and persistent homology.ipynb--the codes are used to create the graph/network as in Figure 1, in line with the EVC filtration and its persistent homology.
 Stationary, convection cycles and persistent barcodes--the codes describe the statinary edge flows and total imbalance together with the corresponding persistent barcodes for the total imbalance.
-
 `
+
