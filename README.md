@@ -10,5 +10,6 @@ The following Jupyter notebooks `contain`:
 
 `Persistent homology of convecion cycles with PageRank and bifurcation diagram--the codes are used to combine the exploration of affect of Google PageRank onto convection cycles; and create the bifurcation diagram to  illustration the birth- and death-time of them.
 `
+
 `Application for chiral edge flows for biopolymers--the codes are the interesting application of convection cycles onto chiral edge flows for biopolymers.`
 
