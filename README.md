@@ -15,9 +15,9 @@ The following Jupyter notebooks `contain`:
 
 The following python files included:
 
-`Graph and persistent homology.ipynb--the codes are used to create the graph/network as in Figure 1, in line with the EVC filtration and its persistent homology.
+NNO_util_minh.py--the codes are used to define min, max matrix.
 
+MMC_util.py--the codes are used to define the graph/network, the EVC filtration, Google matrix, PageRank, etc..
 
-Stationary, convection cycles and persistent barcodes--the codes describe the statinary edge flows and total imbalance together with the corresponding persistent barcodes for the total imbalance.
-`
+MMC_util_plot.py--the codes are used to create the colorbar, color for nodes, etc.
 
